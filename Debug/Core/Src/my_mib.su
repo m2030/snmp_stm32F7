@@ -1,0 +1,6 @@
+../Core/Src/my_mib.c:45:16:get_tem_value	24	static
+../Core/Src/my_mib.c:55:16:get_hum_value	32	static
+../Core/Src/my_mib.c:68:16:get_lux_value	24	static
+../Core/Src/my_mib.c:75:19:set_leds_value	32	static
+../Core/Src/my_mib.c:81:13:convergpio_toRead	32	static
+../Core/Src/my_mib.c:90:13:convergpio_toWrite	32	static

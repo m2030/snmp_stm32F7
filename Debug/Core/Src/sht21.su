@@ -1,0 +1,12 @@
+../Core/Src/sht21.c:22:6:SHT2x_Init	16	static
+../Core/Src/sht21.c:29:6:SHT2x_SoftReset	24	static
+../Core/Src/sht21.c:38:9:SHT2x_ReadUserReg	24	static
+../Core/Src/sht21.c:51:10:SHT2x_GetRaw	32	static
+../Core/Src/sht21.c:63:7:SHT2x_GetTemperature	24	static
+../Core/Src/sht21.c:73:7:SHT2x_GetRelativeHumidity	24	static
+../Core/Src/sht21.c:84:6:SHT2x_SetResolution	32	static
+../Core/Src/sht21.c:96:7:SHT2x_CelsiusToFahrenheit	16	static
+../Core/Src/sht21.c:105:7:SHT2x_CelsiusToKelvin	16	static
+../Core/Src/sht21.c:115:9:SHT2x_GetInteger	16	static
+../Core/Src/sht21.c:125:10:SHT2x_GetDecimal	24	static
+../Core/Src/sht21.c:136:10:SHT2x_Ipow	24	static
